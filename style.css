@@ -2,22 +2,53 @@
 
 body {
     font-family: helvetica;
-    background-color: #222;
+    background-color: #290000;
     color: #fff;
+    }
 
 
 header {
-    background-color: #4e5deb;
+    background-color: #360d0d;
     padding: 15px;
     display: grid;
 }
 
 header h1 { margin-left: 2em; }
 
-#content {
+#menubar {
+    grid-column: 3 / 4;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#menubar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+#menubar li {
+    margin-left: 2em;
+    font-size: 24px;
+}
+
+#content, #modscontent{
     display: flex;
     flex-wrap: wrap;
 }
+
+#content article, #modscontent {
+    background-color: #300f0f;
+    border-radius: 18px;
+    width: 48%;
+    margin: 0.4%;
+    padding: 0.5%;
+
+}
+
+
 
 
 
