@@ -2,4 +2,4 @@
 
 | Features |
 |----------|
-|
+| Home Page |
