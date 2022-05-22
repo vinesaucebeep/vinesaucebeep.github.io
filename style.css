@@ -15,31 +15,31 @@ header {
 
 header h1 { margin-left: 2em; }
 
-#menubar {
+#pages {
     grid-column: 3 / 4;
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
 
-#menubar ul {
+#pages ul {
     margin: 0;
     padding: 0;
     list-style: none;
     display: flex;
 }
 
-#menubar li {
+#pages li {
     margin-left: 2em;
     font-size: 24px;
 }
 
-#content, #modscontent{
+#home, #mods{
     display: flex;
     flex-wrap: wrap;
 }
 
-#content article, #modscontent {
+#home article, #mods {
     background-color: #300f0f;
     border-radius: 18px;
     width: 48%;
