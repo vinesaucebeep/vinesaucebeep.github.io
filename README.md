@@ -1,6 +1,6 @@
 # https://vinesaucebeep.github.io
 
-| Features |
+| Features ✅ |
 |----------|
 | Home Page |
 | Mods Page |
