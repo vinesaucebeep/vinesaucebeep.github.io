@@ -1,4 +1,5 @@
 # vinesaucebeep.github.io
 
-| Features | ✔️ |
-|----------|----|
+| Features |
+|----------|
+|
