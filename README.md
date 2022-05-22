@@ -1,6 +1,8 @@
-# vinesaucebeep.github.io
+# https://vinesaucebeep.github.io
 
 | Features |
 |----------|
 | Home Page |
-| dsdfdsf |
+| Mods Page |
+| Social Media Links |
+| Project Pages |
